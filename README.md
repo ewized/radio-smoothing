@@ -23,7 +23,7 @@ If anything happens the mixer will use the hardware values just as you are used 
 
 ![Mixer 1](./docs/mixer-1.png)
 
-![Mixer 2](./docs/mixer-1.png)
+![Mixer 2](./docs/mixer-2.png)
 
 
 # Q's and A's
