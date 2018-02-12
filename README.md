@@ -12,8 +12,8 @@ This is a LUA script for the OpenTX software.
 This script is designed for the mixer section part of the model.
 
 You install the `smooth.lua` LUA file under the SD contents in the `SCRIPTS/MIXER` folder.
-Under the `Custom Scripts` tab you can create an entry for the LUA file smooth.
-You assign your sticks as inputs (**Its recommended to use the *HARDWARE* inputs and not the virtual inputs**) and it will create new virtual inputs with smooth values as the output.
+Under the `Custom Scripts` tab you can create an entry for the LUA file smooth (**If you do not have the Custom Scripts tab you may need to enabled it in the OpenTX Companion by updating your firmware**).
+You assign your sticks as inputs (**Pro tip when in the selection just move your stick when selected**) and it will create new virtual inputs with smooth values as the output.
 
 ![Custom Scripts Tab](./docs/custom-scripts.png)
 
